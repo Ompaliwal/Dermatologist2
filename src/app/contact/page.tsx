@@ -3,7 +3,6 @@
 
 import { Phone, Mail, MessageCircle, Clock } from "lucide-react";
 import { motion } from "framer-motion";
-import Image from "next/image";
 
 export default function Contact() {
   return (
@@ -20,9 +19,10 @@ export default function Contact() {
           Get in <span className="text-rose-600">Touch</span>
         </h1>
         <p className="text-gray-600 mt-2">
-          Have questions or want to book an appointment? We're here to help you
-          look and feel your best.
-        </p>
+  Have questions or want to book an appointment? We&apos;re here to help you
+  look and feel your best.
+</p>
+
       </motion.div>
 
       {/* Two Columns */}

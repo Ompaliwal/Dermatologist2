@@ -1,5 +1,4 @@
 import Hero from "@/app/hero/page";
-import Image from "next/image";
 import ServicesPage from "./services/page";
 import DoctorsPage from "./doctor/page";
 import Contact from "./contact/page";
